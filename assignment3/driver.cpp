@@ -1,6 +1,5 @@
 // Keanu Aloua
 // December 17, 2021
-// Recreating project 3 from CS 202
 // This program will be a clocking in and clocking out program
 // Will use makefiles and continued use of class building skills
 
