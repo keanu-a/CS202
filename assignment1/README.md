@@ -1,11 +1,11 @@
-- Assignment 1 - 
+#Assignment 1
 
-The goal of this project is to:
+##Goals
   - Familiarize students with developing projecets which contain multiple files.
   - Introduce students to using makefiles
   - Use C++ skills like File IO, Standard IO, string and vector library
   
-Instructions:
+##Instructions
 Write a program for analyzing text loaded from a file.
 
 The name of the text file should be provided as a command line argument. If a filename is not provided
