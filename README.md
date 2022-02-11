@@ -1,4 +1,3 @@
-# cs202
-Project Assignments
+# CS202 - Computer Science II
 
-This repository will include my assignments from CS202 - Computer Science II at the University of Nevada, Reno.
+This repository will include my all files I coded from CS 202.
