@@ -13,4 +13,4 @@ This repository will include my all files I coded from CS 202.
 8. Assignment 8 - Templated Classes, continue building classes
 9. Assignment 9 - Templates, Using Recursion
 10. Assignment 10 - Dynamic Memory Allocation
-11. Final Project - Data Structures, templates, SOLID desin skills
+11. Final Project - Data Structures, templates, SOLID design skills
